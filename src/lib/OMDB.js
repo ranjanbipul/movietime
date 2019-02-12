@@ -1,7 +1,7 @@
 import Request from './request';
 
 export default class OMDB{  
-  static HOST = "http://www.omdbapi.com";
+  static HOST = "//www.omdbapi.com";
   
   static API_ID = "tt3896198";
   
